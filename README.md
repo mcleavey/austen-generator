@@ -6,9 +6,12 @@ Generates text of arbitrary length, after training on several Jane Austen novels
 Sample output:
 
     "Dearest believe it."
-    “I have no doubt, I suppose, that you should have a right to see the house. I am not so fond as I do; but I am sure you would be very glad to see you.” 
+    “I have no doubt, I suppose, that you should have a right to see the house. I am not so fond as I do; 
+but I am sure you would be very glad to see you.” 
      “I should like to see the house in a moment. I thought you would not be able.”
-     She then went to the window, and, after a short pause of silence and reflection on the subject. The subject was soon followed, and Fanny was then in the room, when she had been able to speak, and to say, “oh, yes, that I should have done for you,” was Fanny's answer.
+     She then went to the window, and, after a short pause of silence and reflection on the subject. The 
+subject was soon followed, and Fanny was then in the room, when she had been able to speak, and to say, “oh,
+yes, that I should have done for you,” was Fanny's answer.
     “It is not a man who would not think so, for it is not very likely, I suppose?” 
     “Yes, I am sure I shall not have a doubt of it; but I do not think I shall have the pleasure of seeing you.”
     
